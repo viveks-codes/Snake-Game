@@ -6,6 +6,8 @@ pygame.mixer.init()
 
 pygame.init()
 
+print('hello world');
+
 # window size
 screen_width = 900
 screen_height = 600
