@@ -1,16 +1,35 @@
-# Snake-Game
+<h1 align="center">Welcome to Snake-Game 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+</p>
 
-# Prerequisites
+> This Game Built Using Python and PyGame...Just clone this repo and the enjoy the game 
 
-[Python](https://www.python.org/) and [pygame](pypi.org/project/pygame/)  Must installed in your system.  
+## Install
 
-# install pygame module 
-```python
+```sh
  pip install pygame
 ```
 
-# Running the application 
-Download the source code from the repository and run the file just as other Python script (.py) file.
-```python
+## Usage
+
+```sh
 python3 Game.py
 ```
+
+## Author
+
+👤 **vivek patel**
+
+* Website: https://viveks.codes/
+* Github: [@vivolscute](https://github.com/vivolscute)
+* LinkedIn: [@vivek-patel-0553731a5](https://linkedin.com/in/vivek-patel-0553731a5)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/vivolscute/Snake-Game/issues). You can also take a look at the [contributing guide](https://github.com/vivolscute/Snake-Game/pulls).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
