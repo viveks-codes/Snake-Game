@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> This Game Built Using Python and PyGame...Just clone this repo and the enjoy the game 
+> This Game Built Using Python and PyGame.Just clone this repo and the enjoy the game 
 
 ## Install
 
